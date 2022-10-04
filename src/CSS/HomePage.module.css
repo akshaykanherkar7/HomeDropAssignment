@@ -1,0 +1,242 @@
+.components {
+  /* border: 1px solid gray; */
+  display: flex;
+  gap: 10px;
+  /* margin-top: 2px; */
+}
+.sidebar {
+  width: 272px;
+  border: 1px solid black;
+  height: 944px;
+  background-color: #0f172a;
+}
+.MainBox {
+  /* border: 1px solid green; */
+  width: 1600px;
+  /* background-color: #f1f5f9; */
+}
+.topBTN {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-between;
+  height: 30px;
+  align-items: center;
+  margin-top: 30px;
+  padding: 5px;
+}
+.topBTN p {
+  font-size: 26px;
+}
+.topBTN button {
+  height: 35px;
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  padding: 5px 12px 5px 12px;
+  border-radius: 3px;
+}
+
+.Status {
+  /* border: 1px solid red; */
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+  width: 95%;
+  margin: auto;
+  margin-top: 30px;
+  height: 1000px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.afterStatus {
+  /* border: 1px solid gray; */
+  height: 45px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left {
+  /* border: 1px solid gray; */
+  display: flex;
+  width: 28%;
+  justify-content: space-evenly;
+}
+.right {
+  /* border: 1px solid red; */
+  height: 100%;
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+}
+.right div {
+  /* border: 1px solid gray; */
+  width: 28%;
+  height: 80%;
+}
+.Date {
+  height: 100%;
+  border-radius: 2px;
+  border-color: gray;
+}
+.rightright {
+  display: flex;
+  justify-content: space-evenly;
+  width: 18%;
+  align-items: center;
+  border: 1px solid gray;
+}
+.rightright i {
+  /* border: 1px solid red; */
+  font-size: 30px;
+}
+
+.searchBox {
+  /* border: 1px solid green; */
+  height: 35px;
+  width: 95%;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  justify-content: start;
+  gap: 22px;
+}
+.GridCont1 {
+  /* border: "1px solid red"; */
+  width: 95%;
+  margin: auto;
+  height: 700px;
+  margin-top: 28px;
+}
+.GridCont2 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(auto);
+  gap: 8px;
+  /* border: 1px solid gray; */
+  width: 100%;
+}
+.item {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 95%;
+  height: 120px;
+  margin: auto;
+  display: flex;
+  gap: 4px;
+  padding: 3px;
+  border-radius: 5px;
+}
+.image {
+  width: 30%;
+  height: 100%;
+}
+.detail {
+  /* border: 1px solid green; */
+  width: 70%;
+  padding: 5px;
+}
+.first {
+  /* border: 1px solid red; */
+  height: 25px;
+  display: flex;
+  justify-content: space-between;
+  padding: 3px;
+}
+.first p {
+  margin-top: -2px;
+  color: gray;
+}
+.title {
+  align-items: center;
+  /* border: 1px solid blue; */
+  height: 25px;
+  margin-top: -10px;
+}
+.title p {
+  margin-top: -2px;
+  overflow: hidden;
+  padding: 3px;
+}
+.prices {
+  display: flex;
+  /* border: 1px solid blue; */
+  gap: 10px;
+  height: 25px;
+  padding: 3px;
+}
+.prices p {
+  margin-top: -2px;
+}
+.stock {
+  /* border: 1px solid blue; */
+  height: 25px;
+}
+.stock p {
+  margin-top: -3px;
+  padding: 3px;
+}
+
+@media all and (min-width: 401px) and (max-width: 720px) {
+  .GridCont1 {
+    border: "1px solid red";
+    width: 95%;
+    margin: auto;
+    height: auto;
+    margin-top: 28px;
+  }
+  .GridCont2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(auto);
+    gap: 8px;
+    /* border: 1px solid gray; */
+    width: 100%;
+  }
+  .prices {
+    display: flex;
+    /* border: 1px solid blue; */
+    gap: 10px;
+    height: 25px;
+    padding: 3px;
+  }
+  .sidebar {
+    width: 272px;
+    border: 1px solid black;
+    height: 944px;
+    background-color: #0f172a;
+  }
+}
+
+
+@media all and (min-width: 81px) and (max-width: 400px) {
+  .GridCont1 {
+    border: "1px solid red";
+    width: 95%;
+    margin: auto;
+    height: auto;
+    margin-top: 28px;
+  }
+  .GridCont2 {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(auto);
+    gap: 8px;
+    /* border: 1px solid gray; */
+    width: 100%;
+  }
+  .prices {
+    display: flex;
+    /* border: 1px solid blue; */
+    gap: 10px;
+    height: 25px;
+    padding: 3px;
+  }
+  .sidebar {
+    width: 272px;
+    border: 1px solid black;
+    height: 944px;
+    background-color: #0f172a;
+  }
+}

@@ -1,0 +1,159 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 2,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+
+            "id": 3,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 4,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 5,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 6,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 7,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 8,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 9,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 2,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+
+            "id": 3,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 4,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 5,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 6,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 7,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 8,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        },
+        {
+            "id": 9,
+            "type": "CATBURY",
+            "title": "Catbury Bornvita",
+            "striked_price": 100,
+            "price": 200,
+            "stock": 5,
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/61b-rm090AL._AC_UL232_SR232,232_.jpg"
+        }
+    ]
+}
